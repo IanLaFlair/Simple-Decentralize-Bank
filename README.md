@@ -2,7 +2,6 @@
 ## Decentralize Bank
 
 <img src="https://gcdnb.pbrd.co/images/1x9Ml3ZnkNdC.png?o=" width="600">
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Decentralize Bank is a Simple implementation of Blockchain and Web3 
 to represent some of feature in a banking.
